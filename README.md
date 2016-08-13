@@ -34,7 +34,7 @@ Day 3 - really fast paced. I need to keep up. Feeling Loopy with such an Array o
 Day 4 - While loops are in my head today, I feel like a java eating zombie
 Day 5 - I built a primitive game, my inspiration - tamagochi and my kitty thomas. It did not really integrate everything I tried to absorb but I know I can do this.
 
-I signed up for team treehouse. so far the lectures are giving me the definition of terms I was looking for. suggestion before going in to class 201. learn the basics before you take the class. Craig was awsome, I was just slow because I was unfamiliar. 
+I signed up for team treehouse. so far the lectures are giving me the definition of terms I was looking for. suggestion before going in to class 102. learn the basics before you take the class. Craig was awesome, I was just slow because I was unfamiliar. 
 
 
 
